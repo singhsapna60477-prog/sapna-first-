@@ -13,13 +13,14 @@ export default function Footer() {
     { 
       icon: Instagram, 
       label: 'Instagram', 
-      url: 'https://instagram.com/yashprajapati',
+      url: 'https://www.instagram.com/mr.promoter.yash?igsh=MWowcDhkZGJrczRx',
       color: 'hover:text-pink-400' 
     },
     { 
       icon: Youtube, 
       label: 'YouTube', 
-      url: 'https://youtube.com/@yashprajapati',
+      // Placeholder / provided by user
+      url: '#',
       color: 'hover:text-red-400' 
     },
   ];
